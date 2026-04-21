@@ -43,4 +43,4 @@ SQL Server · SSMS · T-SQL
 ---
 
 👤 Author
-Muhammad Ibtisam  — [GitHub](#) · [LinkedIn](#)
+Muhammad Ibtisam  — [GitHub](https://github.com/Shk-Ibtisam) · [LinkedIn](https://www.linkedin.com/in/muhammad-ibtisam-shk/)
