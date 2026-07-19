@@ -18,7 +18,7 @@ ORDER BY 1,2,3
 
 --Date Exploration--
 
---Find the date of first and last order .  
+--Find the date of first and last order . 
 --How many years of sales ?
 
 SELECT
