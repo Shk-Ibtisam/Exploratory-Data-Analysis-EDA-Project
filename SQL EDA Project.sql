@@ -179,7 +179,7 @@ c.first_name,
 c.last_name
 ORDER BY total_revenue DESC
 
---Top 3 Customers with the fewest order placed 
+--Top 3 Customers with the fewest order placed
 SELECT TOP 3
 c.customer_key,
 c.first_name,
