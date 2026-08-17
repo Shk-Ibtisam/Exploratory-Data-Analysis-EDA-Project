@@ -7,7 +7,7 @@ WHERE TABLE_NAME = 'gold.dim_customers'
 
 USE DataWarehouseAnalytics
 
---Explore All Countries our Customers come from.
+--Explore All Countries our Customers come from. 
 
 SELECT DISTINCT country FROM gold.dim_customers
 
